@@ -1,0 +1,23 @@
+.TransactionHistory {
+  width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.tableHead {
+  background-color: rgba(218, 24, 24, 0.5);
+}
+
+.tableHeader {
+  border: 1px solid white;
+  padding: 0;
+}
+.tableRow {
+  text-align: center;
+}
+
+.tableData {
+  border: 1px solid rgb(231, 169, 169);
+}
+.tableRow:nth-child(even) {
+  background-color: rgb(247, 202, 202);
+}
